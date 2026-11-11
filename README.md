@@ -6,19 +6,46 @@
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
-I am a **Software Developer** with almost **2 years of experience** in building scalable and high-performance applications. My expertise lies in **Dart & Flutter**, but I also have a background in **Android (Java)** and a keen interest in **cloud technologies and containerization**.
+I'm a **Software Developer** with **3+ years of experience** building and maintaining applications, primarily using **Flutter and Dart**.
+
+My experience spans cross-platform mobile development, application architecture, offline-first systems, real-time features, and third-party integrations. I'm also expanding into **Backend Development with Go** and exploring **Cloud Infrastructure, Linux Networking, and DevOps**.
+
+I enjoy understanding how things work under the hood, solving engineering problems, and sharing what I learn through technical writing.
 
 ### 🛠️ Tech Stack & Skills
+
 - **Mobile Development:** Dart, Flutter, Android (Java)
-- **Frontend:** Next.js, TypeScript, JavaScript
-- **Backend:** FastAPI (Python), Node.js (JavaScript/TypeScript)
-- **Cloud & DevOps:** AWS (EC2, RDS, ECR), Docker, Kubernetes
-- **Version Control:** Git & GitHub
-- **Terminal & Tools:** Linux, Bash, Git
+- **Frontend:** React, TypeScript, JavaScript
+- **Backend:** Go, Python FastAPI, Node.js
+- **Databases:** PostgreSQL, SQLite, Redis, Firebase
+- **Cloud & Infrastructure:** AWS (EC2, RDS, ECR), Docker, Linux, Nginx
+- **Networking:** Linux Network Namespaces, Bridges, veth Pairs, DNS, NAT
+- **CI/CD & Tools:** Git, GitHub Actions, Codemagic, Jenkins, Bash
+
+### ✍️ Technical Writing
+
+I write hands-on technical articles covering Flutter development, Go concurrency, Docker networking, and AWS infrastructure.
+
+- [Flutter & Mobile Development](https://nitin-poojary.hashnode.dev)
+- [Backend, Go & DevOps](https://nitin-poojary-backend-and-devops.hashnode.dev)
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nitin-poojary05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:nitinpoojary00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://hashnode.com/@NitinPoojary">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -27,17 +54,4 @@ I am a **Software Developer** with almost **2 years of experience** in building 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitin-Poojary&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-Poojary&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nitin-poojary05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:nitinpoojary00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-  </a>
 </p>
